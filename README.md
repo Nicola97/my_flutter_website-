@@ -1,6 +1,6 @@
-# flutter_portfolio_2
+# My Portfolio Website
 
-A new Flutter project.
+That is my new website made with flutter.
 
 ## Getting Started
 
